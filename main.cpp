@@ -15,6 +15,7 @@
 #include <set>
 #include <cmath>
 #include "csvstream.h"
+#include "oleanderstemminglibrary/include/olestem/stemming/english_stem.h"
 
 using namespace std;
 // sets precision for outputting stuff   WHY DOES IT PRODUCE AN ERROR????
